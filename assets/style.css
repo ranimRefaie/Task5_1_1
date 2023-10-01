@@ -48,6 +48,7 @@ button {
     color: white;
     font-size: 30px;
     transition: 0.5s;
+    outline: none;
 }
 
 button:hover {
